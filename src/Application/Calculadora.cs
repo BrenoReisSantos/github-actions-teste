@@ -3,7 +3,7 @@ public static class Calculadora
 {
     public static int soma(int a, int b)
     {
-        return a + b;
+        return a + b + 1;
     }
 
     public static int multiplica(int a, int b)
